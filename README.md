@@ -1,3 +1,8 @@
+ABANDON NOTICE
+---------------
+This project has been abandoned as I think C++ is better suited for this project.
+[You can find that here][newver]
+
 About
 -----
 This project is a personal project by following this [guide][guidelink] to generate some cool images.
@@ -33,3 +38,4 @@ To-do list
 
 [guidelink]: https://raytracing.github.io/
 [licenselink]: LICENSE.md
+[newver]: https://github.com/ramak1618/raytrace/
